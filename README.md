@@ -1,13 +1,13 @@
 # Tweets-by-Congress
-An API that interacts with MongoDB to retrieve data on tweets made by members of U.S Congress from 2008-2017
+An API that interacts with MongoDB to retrieve data on tweets made by members of U.S Congress from 2008-2017.
 
 Programs:
-congressional_tweets_api.py constructs a class and relevant methods to mimic the creation of an API that queries data from MongoDB.
-congressional_tweets_driver.py utilizes the simulated API to retrieve tweet data and analyze it.
+- congressional_tweets_api.py constructs a class and relevant methods to mimic the creation of an API that queries data from MongoDB.
+- congressional_tweets_driver.py utilizes the simulated API to retrieve tweet data and analyze it.
 
 Other Components:
-"Visualizations" contains copies of the visualizations created by the driver program
-Link to JSON Data: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset 
+- "Visualizations" contains copies of the visualizations created by the driver program
+- Link to JSON Data: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset 
   - Database name: congressionalTweets
   - Collection names: tweets and users
 
