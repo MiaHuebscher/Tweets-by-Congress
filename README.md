@@ -7,7 +7,7 @@ Programs:
 
 Other Components:
 - "Visualizations" contains copies of the visualizations created by the driver program
-- Link to JSON Data: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset 
+- Link to JSON Data Uploaded to MongoDB: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset 
   - Database name: congressionalTweets
   - Collection names: tweets and users
 
