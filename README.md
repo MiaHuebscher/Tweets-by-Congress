@@ -7,7 +7,7 @@ congressional_tweets_driver.py utilizes the simulated API to retrieve tweet data
 
 Other Components:
 "Visualizations" contains copies of the visualizations created by the driver program
-"JSON Data" contains the data that was imported into MongoDB. 
+Link to JSON Data: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset 
   - Database name: congressionalTweets
   - Collection names: tweets and users
 
