@@ -70,8 +70,10 @@ if __name__ == "__main__":
     popular_tweets = congressionalTweets.most_popular_tweets(n=100, popularity_metric="retweet_count",
                                                              require_hashtags=True)
     for tweet in popular_tweets:
-        hashtag = tweet['entities']['hashtags'][0]['text']
-        hashtag_lst.append(hashtag)
+        hashtags = tweet['entities']['hashtags']
+        for i in range(len(hashtags)):
+            hash = hashtags[i]['text']
+            hashtag_lst.append(hash)
 
     # Identify the 15 most common hashtags
     common_hashs = Counter(hashtag_lst).most_common(15)
