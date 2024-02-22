@@ -1,6 +1,6 @@
 """
 DS4300
-Mia Huebscher and Launna Atkinson
+Mia Huebscher
 MongoDB Tutorial with Congressional Tweet Data, Spring 2024
 
 Utilizes an API to query for data regarding tweets made by US Congress members and analyze it.
