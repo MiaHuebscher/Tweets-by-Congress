@@ -11,4 +11,4 @@ Other Components:
   - Database name: congressTweets
   - Collection names: tweets and users
 
-By analyzing tweets made by U.S. Congress members, we can gain insights such as how politicians utilize the platform, the beliefs and goals of certain politicians, and the specific events in our nations history that have significantly impacted public discourse (e.g. the fight for marriaeg equality, the Coronavirus pandemic, and the Paris Agreement.)
+By analyzing tweets made by U.S. Congress members, we can gain insights such as how politicians utilize the platform, the beliefs and goals of certain politicians, and the specific events in our nations history that have significantly impacted public discourse (e.g. the fight for marriage equality, the Coronavirus pandemic, and the Paris Agreement.)
